@@ -1,6 +1,6 @@
 # Projeto Disciplina Ciência de Dados
 
-* Universidade nove de julho
+* Universidade Nove de Julho
 * Ciência da Computação
 
 
